@@ -1,16 +1,61 @@
-# Full-Stack-To-Do-List
-Full-Stack To-Do List Web Application
+# 🚀 Full-Stack To-Do List
 
-Technologies used:
+A sleek, responsive MERN-stack application for effortless task management.
 
-React.js, Express.js, Node.js, REST API, MongoDB
+---
 
-Developed a responsive to-do list app with React.js as the frontend framework and Express.js  for backend API endpoints
+## ✨ Features
+- ⚡ **Real-time CRUD** – instant create, read, update, delete  
+- 📱 **Responsive UI** – flawless on mobile, tablet, desktop  
+- 🌗 **Dark / Light Mode** – toggle with one click  
+- ☁️ **MongoDB Atlas** – secure, scalable cloud storage  
+- 🔌 **RESTful API** – clean endpoints, fast responses
 
-Implemented dynamic CRUD operations (Create, Read, Update, Delete) to manage tasks in real time
+---
 
-Built RESTful APIs with Express.js to handle task management logic and user interactions
+## 🚀 Getting Started
 
-Connected the frontend and backend using Axios for smooth communication and state management
+### 1. Clone the repo
+```bash
+git clone https://github.com/AnasHaidar-95/Full-Stack-To-Do-List.git
+cd Full-Stack-To-Do-List
+```
+### 2. Install the frontend
+Open a terminal and run:
+```bash
+cd FrontEnd
+npm install
+```
+### 3. Install the backend
+Open a second terminal and run:
+```
+cd BackEnd
+npm install
+```
 
-Designed a clean and intuitive user interface with interactive components and persistent storage
+### 4. Configure Environment
+
+server/.env
+```
+MONGO_URI=mongodb+srv://<user>:<pass>@cluster0.mongodb.net/todolist
+PORT=2500
+```
+
+### 5. Launch
+```
+npm run dev
+```
+
+## 🤝 Contributing
+
+We ❤️ contributions!  
+Whether it’s a bug fix, new feature, or improved docs, every PR is welcome.
+
+### Quick Steps
+1. **Fork** the repo (top-right button)  
+2. **Clone** your fork  
+   ```bash
+   git clone https://github.com/AnasHaidar-95/Full-Stack-To-Do-List.git
+   
+## 📄 License
+MIT © Anas Haidar
