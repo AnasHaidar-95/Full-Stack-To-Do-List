@@ -48,7 +48,8 @@ npm run dev
 
 ## 🤝 Contributing
 
-We ❤️ contributions!  
+I ❤️ contributions!
+Feel free to contribute,
 Whether it’s a bug fix, new feature, or improved docs, every PR is welcome.
 
 ### Quick Steps
